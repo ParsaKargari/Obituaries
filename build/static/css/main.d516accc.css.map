@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.d516accc.css","mappings":"AAAA,4BASE,QAAS,CACT,SACF,CACA,EACE,aAAc,CACd,oBACF","sources":["index.css"],"sourcesContent":["body,\nh1,\nh2,\nh3,\nh4,\nh5,\nh6,\nli,\np {\n  margin: 0;\n  padding: 0;\n}\na {\n  color: inherit;\n  text-decoration: none;\n}\n"],"names":[],"sourceRoot":""}
